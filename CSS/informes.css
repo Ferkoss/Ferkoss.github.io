@@ -275,5 +275,10 @@ align-self: center;
     .cont-datos-cabecera p {
         font-size: 10px;
     }
+    .compartir h3{
+        display: block;
+        font-size: 20px;
+        text-align: center;
+    }
 }
 
